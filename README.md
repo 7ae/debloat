@@ -79,5 +79,5 @@ java -jar debloat.jar
 ```
 - Generate javadoc (`docs/site/index.html`)
 ```
-javadocs -d ./docs/site *.java
+javadoc -d ./docs/site *.java
 ```
